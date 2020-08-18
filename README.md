@@ -1,6 +1,6 @@
 ### Hi there, I'm Nataraj! 👋
 
- I am a final year Computer Science graduate student and freelancer looking for job opportunities.
+ I am a final year Computer Science graduate student and freelancer looking for job opportunities. I'm a passionate coder and ML enthusiast
  - 🔭 I’m currently working on developing my Data Structures and algorithms skills.
  - 🌱 I’m currently learning Machine learning and Tensorflow.
  - ⚡ Quote: "No amount of money ever bought a second of time" - Tony Stark
