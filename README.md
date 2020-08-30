@@ -16,7 +16,7 @@
  <a href="mailto:mnatraj2000@gmail.com"><img src="https://img.icons8.com/color/30/gmail.png"></a>
  <a href="https://www.facebook.com/maddala.natraj/"><img src="https://img.icons8.com/color/30/facebook-new.png"></a>
  <a href="https://www.instagram.com/raj_nat_raj/"><img src="https://img.icons8.com/fluent/30/instagram-new.png"></a>
- <a href="https://www.fiverr.com/users/mnataraj/"><img src="iconfinder_fiverr_3069760 (1).png" width="30px" height="30px"></a>
+ <a href="https://www.fiverr.com/users/mnataraj/"><img src="fiv.png" width="30px" height="30px"></a>
 </p>
 <!--
 **NatarajMaddala/NatarajMaddala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
